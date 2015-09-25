@@ -1,0 +1,28 @@
+{
+  "name": "www",
+  "version": "1.0.0",
+  "description": "my-websit",
+  "main": "app.js",
+  "dependencies": {
+    "koa": "^1.0.0"
+  },
+  "devDependencies": {
+    "koa": "^1.0.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yiye/blog.git"
+  },
+  "keywords": [
+    "koa"
+  ],
+  "author": "yiye",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yiye/blog/issues"
+  },
+  "homepage": "https://github.com/yiye/blog#readme"
+}
